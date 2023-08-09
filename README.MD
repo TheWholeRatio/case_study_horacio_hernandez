@@ -6,7 +6,7 @@
    `npm run install-deps`
 
 2. build react web app
-   `npm run buildweb`
+   `npm run build`
 
 3. Compile and run server
    `npm run dev`
