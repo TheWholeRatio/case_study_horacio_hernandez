@@ -8,7 +8,7 @@
 2. build react web app
    `npm run build`
 
-3. Compile and run server
+3. Start server
    `npm start`
 
 4. Go to [App link](http://localhost:8000)
