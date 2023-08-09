@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "install-deps": "npm install && cd client && npm install",
-    "buildweb": "cd client && npm run build",
+    "build": "tsc && cd client && npm run build",
     "webdev": "cd client && npm start",
     "compile": "tsc",
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\"",
