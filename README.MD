@@ -9,6 +9,6 @@
    `npm run build`
 
 3. Compile and run server
-   `npm run dev`
+   `npm start`
 
 4. Go to [App link](http://localhost:8000)
